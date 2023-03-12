@@ -11,4 +11,4 @@
         <div class="question">Otázka 3</div>
         <div class="answer">Odpoveď 3</div>
       </div>
-    </section>
+</section>
