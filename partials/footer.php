@@ -1,6 +1,3 @@
-<?php
-  include_once('inc/functions.php');
-?>
 <footer class="container bg-dark text-white">
     <div class="row">
       <div class="col-25">
@@ -26,7 +23,8 @@
         <h4>Rýchle odkazy</h4>
         <ul>
         <?php
-          page_menu();
+          //page_menu();
+          print_menu($Footer_menu);
         ?>    
         </ul>
       </div>
